@@ -30,4 +30,4 @@ Explanation:
 In example-1, the number list is 6,-2,3,-1.here (-2) + 3
 
 +(-1) =0. So we can get consecutive numbers in Arr[] and its sum is 0. Hence the output is 1. In example-2, the number list is 5, 1, 2, 3,-4. Any consecutive numbers cannot give 0 sum. Hence the output is 0.
-""""
+"""
